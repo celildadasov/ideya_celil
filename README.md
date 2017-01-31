@@ -11,3 +11,8 @@ mueyyen bir futbol kamandasinin web sehifesi.bu kamandanin azerkeslerini bir ara
 9)yox
 10)mueyyen qeder rolu var.yeni bu sehifede izleyiciler meselen mueyyen bir oyuncunun formasini sifaris edir.mende bazaya sifariwi gonderirem ve ordan oz faizimi aliram
 11)yox
+
+audeince
+1)
+2)izleyiciler esasen azarkesler,yas silsilesi 10-40 ,maraqlari ise xeber elde etmek
+3)
